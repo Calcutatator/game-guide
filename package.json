@@ -1,6 +1,6 @@
 {
-  "name": "game-guide",
-  "version": "0.0.0",
+  "name": "yarn",
+  "version": "yarn start",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
@@ -44,5 +44,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/Calcutatator/game-guide.git",
+  "author": "Calcutator <Calcutatator@gmail.com>",
+  "license": "MIT"
 }
